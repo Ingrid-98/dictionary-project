@@ -9,7 +9,25 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Ingrid Opdebeeck, open-sourced on Github </small>
+          <small>
+            Coded by{" "}
+            <a
+              href="https://www.linkedin.com/in/ingrid-opdebeeck-1b1b11148/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ingrid Opdebeeck{" "}
+            </a>
+            , open-sourced on{" "}
+            <a
+              href="https://github.com/Ingrid-98/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              Github{" "}
+            </a>{" "}
+          </small>
         </footer>
       </div>
     </div>

@@ -1,3 +1,9 @@
+body {
+  background: #fbf4f9;
+}
+a {
+  color: #b9cced;
+}
 .App-header {
   margin: 30px 0;
 }
