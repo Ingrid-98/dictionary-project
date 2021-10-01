@@ -3,6 +3,11 @@ body {
 }
 a {
   color: #b9cced;
+  transition: all 150ms ease-in-out;
+  text-decoration: none;
+}
+a:hover {
+  color: #c88999;
 }
 .App-header {
   margin: 30px 0;
